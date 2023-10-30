@@ -1,0 +1,44 @@
+  [
+    {
+      "title": "BAUM (Test)",
+      "images": [
+        "images/image1.jpg",
+        "images/image2.jpg",
+        "images/image1.jpg"
+      ],
+      "description": "Wenn du das hier gefunden hast bist du sus",
+      "lat": 51.505,
+      "lng": -0.09
+    },
+    {
+      "title": "Beispielort 2",
+      "images": [
+        "images/image1.jpg",
+        "images/image2.jpg"
+      ],
+      "description": "Beschreibung für Beispielort 2.",
+      "lat": 51.51,
+      "lng": -0.1
+    },
+    {
+      "title": "Beispielort 3",
+      "images": [
+        "images/image2.jpg"
+      ],
+      "description": "Beschreibung für Beispielort 3.",
+      "lat": 51.515,
+      "lng": -0.095
+    },
+    {
+        "title": "Bürgerhaus Oppershofen",
+        "images": [
+          "https://lh5.googleusercontent.com/p/AF1QipPzWbWleaK6rJAqHDteVtn98QIZ2QEhsWV9rXKv=s516-k-no",
+          "https://lh5.googleusercontent.com/p/AF1QipPzWbWleaK6rJAqHDteVtn98QIZ2QEhsWV9rXKv=s516-k-no",
+          "https://lh5.googleusercontent.com/p/AF1QipMe1ASuhJ-XlO0l00WlNodLMrH2-0Q_SQTOubCo=w203-h270-k-no"
+        ],
+        "description": "Bürgerhaus mit einer Bank und 2 Mülleimern inklusive Überdachung. Neben an sind noch Tennisplätze",
+        "lat": 50.414476,
+        "lng": 8.7375009
+      }
+  ]
+  
